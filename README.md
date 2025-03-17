@@ -31,3 +31,10 @@ Each model is fine-tuned on **both clean and poisoned datasets**, followed by an
 - Hugging Face Transformers
 - CUDA (for GPU training)
 - OpenAI/BERTScore (for evaluation)
+
+  ## 🤝 Contributors
+
+- **Shreya Shetye** ([sshety3@illinois.edu](mailto:sshety3@illinois.edu))  
+- **Vibhor Tyagi** ([vtyag@illinois.edu](mailto:vtyag@illinois.edu))  
+- **Yash Samir Kakde** ([kakde2@illinois.edu](mailto:kakde2@illinois.edu))  
+
